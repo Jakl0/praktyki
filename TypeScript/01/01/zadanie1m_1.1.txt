@@ -1,0 +1,3 @@
+1. 950 , 950 , NaN
+2. może spowodować problem w działaniu systemu i problemy dla innych programistów pracujących na tym samym projekcie
+3.za pomocą statycznego typowania zmiennych i określenia typu przed kompilacją kodu , program wyrzuci błąd co jest lepsze niż zawieszenie programu

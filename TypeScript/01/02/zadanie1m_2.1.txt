@@ -1,0 +1,4 @@
+1. jest prawdopodobnie na innym systemie operacyjnym i powinien wpisać sudo przed komendą
+2.Powinien sprawdzić czy Node.js został zainstalowany i zrestartować wiersz poleceń
+3.Powinien zrestartować program i sprawdzić ustawienia Ts
+4.Powinien zoptymalizować ustawienia

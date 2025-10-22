@@ -1,0 +1,2 @@
+1.Relacje między czytelnikami a książkami np. wypożyczenia i przechowywanie stałych danych o czytelniku jak id , data wypożyczenia
+2.

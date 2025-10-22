@@ -1,0 +1,5 @@
+1 JS wystarczy, bo nie ma dużego ryzyka błędów typów
+2 TS zmniejszy ryzyko błędów w logice biznesowej
+3 JS aby testować aplikację , typescript spowolniłby tworzenie testowego projektu
+4 TS ułatwia wykrywanie błędów przed publikacją i zwiększa zaufanie do biblioteki
+5 JS: W TS konfiguracja zajęłaby więcej czasu niż sam kod. JS jest wystarczający i szybszy do uruchomienia

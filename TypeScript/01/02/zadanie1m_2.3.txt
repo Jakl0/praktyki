@@ -1,0 +1,4 @@
+ 1: Użycie Zintegrowanego Terminala i Automatyczna Kompilacja
+ 2: Użycie Pliku Konfiguracyjnego Projektu
+ 3: Uproszczenie Uruchamiania (npm scripts)
+ 4: Wtyczki Edytora: TypeScript Importer,Wbudowane funkcje uruchamiania

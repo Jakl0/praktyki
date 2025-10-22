@@ -1,0 +1,4 @@
+1. Wszyscy członkowie zespołu muszą zainstalować tę samą, stabilną wersję Node.js
+2. Każdy deweloper powinien sprawdzić poprawność instalacji Node.js i npm za pomocą terminala
+3. Jeden z deweloperów uruchamia komendę tsc --init
+4. Utworzony plik konfiguracyjny musi zostać zapisany i dołączony do kontroli wersji projektu. 
